@@ -1,0 +1,54 @@
+{
+  "datavpsunmanaged": [
+    {
+      "Provider": "ciao",
+      "Provider_URL": "https://www.google.it",
+      "Region": "EU",
+      "Locations": "Roma",
+      "CPUs": "1",
+      "RAM": "1024MB",
+      "Space": "10GB",
+      "Port_Speed": "1GB",
+      "Bandwidth": "1024",
+      "IPv4": "1",
+      "IPv6": "1",
+      "VZ_Type": "KVM",
+      "Backups":"No",
+      "Panel": "No",
+      "Price /mo": "1",
+      "Price /12mo": "10",
+      "Value": "",
+      "Links": [{
+      "link_desc": "offerta",
+      "link_url": "https://www.linkofferta.it"
+      }],
+      "Coupon": "",
+      "Note": ""
+    },
+    {
+      "Provider": "ciao 2",
+      "Provider_URL": "https://www.google.it",
+      "Region": "EU2",
+      "Locations": "Roma2",
+      "CPUs": "1",
+      "RAM": "10242MB",
+      "Space": "102GB",
+      "Port_Speed": "12GB",
+      "Bandwidth": "10224",
+      "IPv4": "1",
+      "IPv6": "1",
+      "VZ_Type": "KVM",
+      "Backups":"No",
+      "Panel": "No",
+      "Price /mo": "1",
+      "Price /12mo": "10",
+      "Value": "",
+      "Links": [{
+      "link_desc": "offerta",
+      "link_url": "https://www.linkofferta.it"
+      }],
+      "Coupon": "",
+      "Note": ""
+    }
+  ]
+}
