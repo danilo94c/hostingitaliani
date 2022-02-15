@@ -1,0 +1,28 @@
+{
+  "datavps": [
+    {
+      "Provider": "",
+      "Provider_URL": "",
+      "Region": "",
+      "Locations": "",
+      "CPUs": "",
+      "RAM": "",
+      "Space": "",
+	  "Port_Speed": "",
+      "Bandwidth": "",
+	  "IPv4": "",
+      "IPv6": "",
+      "VZ_Type": "",
+	  "Managed": "",
+	  "Panel": "",
+      "Price": "",
+      "Value": "",
+      "Links": [{
+        "link_desc": "",
+        "link_url": ""
+      }],
+      "Coupon": "",
+      "Note": ""
+    }
+  ]
+}
