@@ -8,18 +8,19 @@
       "CPUs": "",
       "RAM": "",
       "Space": "",
-	  "Port_Speed": "",
+      "Port_Speed": "",
       "Bandwidth": "",
-	  "IPv4": "",
+      "IPv4": "",
       "IPv6": "",
       "VZ_Type": "",
-	  "Managed": "",
-	  "Panel": "",
+      "Managed": "",
+      "Backups":"".
+      "Panel": "",
       "Price": "",
       "Value": "",
       "Links": [{
-        "link_desc": "",
-        "link_url": ""
+      "link_desc": "",
+      "link_url": ""
       }],
       "Coupon": "",
       "Note": ""
